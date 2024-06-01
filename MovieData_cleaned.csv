@@ -1,0 +1,501 @@
+,Id,Title,Year,Certificate,Runtime,Genre,Imdb_rating,Metascore,Director,Votes,Gross
+0,1,12 Angry Men,1957,U,96,"Crime, Drama",9.0,97.0,Sidney Lumet,844910,4.36
+1,2,12 Years a Slave,2013,A,134,"Biography, Drama, History",8.1,96.0,Steve McQueen,731219,56.67
+2,3,1917,2019,R,119,"Action, Drama, War",8.2,78.0,Sam Mendes,654454,159.23
+3,4,2001: A Space Odyssey,1968,U,149,"Adventure, Sci-Fi",8.3,84.0,Stanley Kubrick,706415,56.95
+4,5,"4 luni, 3 saptamâni si 2 zile",2007,,113,Drama,7.9,97.0,Cristian Mungiu,62763,1.19
+5,6,8½,1963,,138,Drama,8.0,93.0,Federico Fellini,123591,0.05
+6,7,A Clockwork Orange,1971,A,136,"Crime, Sci-Fi",8.3,77.0,Stanley Kubrick,867905,6.21
+7,8,A Hard Day's Night,1964,U,87,"Comedy, Musical",7.5,96.0,Richard Lester,47485,13.78
+8,9,A Matter of Life and Death,1946,PG,104,"Drama, Fantasy, Romance",8.0,,Michael Powell,24131,
+9,10,A Streetcar Named Desire,1951,A,122,Drama,7.9,97.0,Elia Kazan,113039,8.0
+10,11,A Woman Under the Influence,1974,,155,"Drama, Romance",8.1,88.0,John Cassavetes,27980,13.34
+11,12,Ace in the Hole,1951,,111,"Drama, Film-Noir",8.1,72.0,Billy Wilder,38533,3.97
+12,13,"Aguirre, der Zorn Gottes",1972,,95,"Action, Adventure, Biography",7.8,,Werner Herzog,61056,
+13,14,Ah-ga-ssi,2016,A,145,"Drama, Romance, Thriller",8.1,85.0,Park Chan-wook,166533,2.01
+14,15,Ai no mukidashi,2008,,237,"Action, Comedy, Drama",8.0,78.0,Sion Sono,15504,
+15,16,Akahige,1965,U,185,Drama,8.3,90.0,Akira Kurosawa,20658,
+16,17,Akira,1988,Not Rated,124,"Animation, Action, Drama",8.0,67.0,Katsuhiro Ôtomo,200608,0.55
+17,18,Alice in den Städten,1974,,113,Drama,7.9,78.0,Wim Wenders,12833,
+18,19,Alien,1979,R,117,"Horror, Sci-Fi",8.5,89.0,Ridley Scott,931518,78.9
+19,20,Aliens,1986,U,137,"Action, Adventure, Sci-Fi",8.4,84.0,James Cameron,750763,85.16
+20,21,All About Eve,1950,,138,Drama,8.2,98.0,Joseph L. Mankiewicz,137014,0.01
+21,22,All Quiet on the Western Front,1930,U,152,"Drama, War",8.1,91.0,Lewis Milestone,66790,3.27
+22,23,All the President's Men,1976,U,138,"Drama, History, Thriller",7.9,84.0,Alan J. Pakula,124037,70.6
+23,24,Amadeus,1984,R,160,"Biography, Drama, Music",8.4,87.0,Milos Forman,421133,51.97
+24,25,Amarcord,1973,,123,"Comedy, Drama",7.9,,Federico Fellini,46141,0.58
+25,26,American Beauty,1999,UA,122,Drama,8.3,84.0,Sam Mendes,1195702,130.1
+26,27,American History X,1998,R,119,"Crime, Drama",8.5,62.0,Tony Kaye,1169380,6.72
+27,28,Amour,2012,UA,127,Drama,7.9,95.0,Michael Haneke,104577,6.74
+28,29,Anatomy of a Murder,1959,A,161,"Drama, Mystery",8.0,95.0,Otto Preminger,70069,11.9
+29,30,Andrei Rublev,1966,,205,"Biography, Drama, History",8.1,,Andrei Tarkovsky,56291,0.1
+30,31,Angst essen Seele auf,1974,,92,"Drama, Romance",8.0,,Rainer Werner Fassbinder,23340,
+31,32,Annie Hall,1977,A,93,"Comedy, Romance",8.0,92.0,Woody Allen,274698,39.2
+32,33,Aparajito,1956,U,110,Drama,8.2,,Satyajit Ray,15636,0.17
+33,34,Apocalypse Now,1979,R,147,"Drama, Mystery, War",8.4,94.0,Francis Ford Coppola,698748,83.47
+34,35,Apur Sansar,1959,U,105,Drama,8.5,,Satyajit Ray,16226,0.02
+35,36,Aruitemo aruitemo,2008,,115,Drama,7.9,89.0,Kore-eda Hirokazu,18060,0.16
+36,37,Ascenseur pour l'échafaud,1958,,91,"Crime, Drama, Thriller",7.9,94.0,Louis Malle,28065,0.11
+37,38,Au hasard Balthazar,1966,,95,Drama,7.8,98.0,Robert Bresson,22368,0.04
+38,39,Au revoir les enfants,1987,U,104,"Drama, War",8.0,88.0,Louis Malle,35660,4.54
+39,40,Ba wang bie ji,1992,R,171,"Drama, Music, Romance",8.1,84.0,Kaige Chen,32245,5.22
+40,41,Bacheha-Ye aseman,1997,PG,89,"Drama, Family, Sport",8.2,77.0,Majid Majidi,79208,0.93
+41,42,Back to the Future,1985,U,116,"Adventure, Comedy, Sci-Fi",8.5,87.0,Robert Zemeckis,1279860,210.61
+42,43,Badlands,1973,U,94,"Action, Crime, Drama",7.7,93.0,Terrence Malick,77348,
+43,44,Early Summer,1951,,125,"Drama, Romance",8.1,94.0,Yasujirô Ozu,9350,
+44,45,Banshun,1949,,108,Drama,8.2,93.0,Yasujirô Ozu,18740,
+45,46,Barry Lyndon,1975,U,185,"Adventure, Drama, War",8.1,89.0,Stanley Kubrick,179466,
+46,47,Beauty and the Beast,1991,U,84,"Animation, Family, Fantasy",8.0,95.0,Gary Trousdale,473875,218.97
+47,48,Before Sunrise,1995,16,101,"Drama, Romance",8.1,77.0,Richard Linklater,332054,5.54
+48,49,Before Sunset,2004,A,80,"Drama, Romance",8.1,91.0,Richard Linklater,282542,5.82
+49,50,Being There,1979,,130,"Comedy, Drama",7.9,83.0,Hal Ashby,76608,30.18
+50,51,Ben-Hur,1959,U,212,"Adventure, Drama",8.1,90.0,William Wyler,249992,74.7
+51,52,Blade Runner,1982,UA,117,"Action, Drama, Sci-Fi",8.1,84.0,Ridley Scott,809122,32.87
+52,53,Blue Velvet,1986,A,120,"Crime, Drama, Mystery",7.7,75.0,David Lynch,211651,8.55
+53,54,Bom yeoreum gaeul gyeoul geurigo bom,2003,R,103,"Drama, Romance",8.0,85.0,Kim Ki-duk,86006,2.38
+54,55,Bonnie and Clyde,1967,A,111,"Action, Biography, Crime",7.7,86.0,Arthur Penn,118792,
+55,56,Boyhood,2014,A,165,Drama,7.9,100.0,Richard Linklater,364417,25.38
+56,57,Brazil,1985,U,132,"Drama, Sci-Fi, Thriller",7.9,84.0,Terry Gilliam,208851,9.93
+57,58,Breaking the Waves,1996,R,159,Drama,7.8,82.0,Lars von Trier,70677,4.04
+58,59,Brief Encounter,1945,U,86,"Drama, Romance",8.0,92.0,David Lean,43254,
+59,60,Bringing Up Baby,1938,,102,Comedy,7.8,91.0,Howard Hawks,65153,
+60,61,Bronenosets Potemkin,1925,,75,"Drama, History, Thriller",7.9,97.0,Sergei Eisenstein,60678,0.05
+61,62,Butch Cassidy and the Sundance Kid,1969,U,110,"Biography, Crime, Drama",8.0,66.0,George Roy Hill,224366,102.31
+62,63,Once Upon a Time in the West,1968,U,166,Western,8.5,82.0,Sergio Leone,344574,5.32
+63,64,Cabaret,1972,A,124,"Drama, Music, Musical",7.8,80.0,Bob Fosse,58385,42.77
+64,65,Call Me by Your Name,2017,UA,132,"Drama, Romance",7.8,94.0,Luca Guadagnino,302749,18.1
+65,66,Capharnaüm,2018,A,126,Drama,8.4,75.0,Nadine Labaki,101561,1.66
+66,67,Carlito's Way,1993,A,144,"Crime, Drama, Thriller",7.9,66.0,Brian De Palma,229277,36.95
+67,68,Casablanca,1942,U,102,"Drama, Romance, War",8.5,100.0,Michael Curtiz,597131,1.02
+68,69,Casino,1995,A,178,"Crime, Drama",8.2,73.0,Martin Scorsese,552800,42.44
+69,70,Cat on a Hot Tin Roof,1958,A,108,Drama,7.9,84.0,Richard Brooks,52674,17.57
+70,71,Catch Me If You Can,2002,A,141,"Biography, Crime, Drama",8.1,75.0,Steven Spielberg,1065969,164.62
+71,72,Central do Brasil,1998,R,110,Drama,8.0,80.0,Walter Salles,41674,5.6
+72,73,Cet obscur objet du désir,1977,,103,"Comedy, Drama, Romance",7.8,84.0,Luis Buñuel,24331,0.06
+73,74,Charade,1963,U,113,"Comedy, Mystery, Romance",7.9,83.0,Stanley Donen,83607,13.47
+74,75,Chinatown,1974,UA,130,"Drama, Mystery, Thriller",8.2,92.0,Roman Polanski,343541,
+75,76,Chung Hing sam lam,1994,U,102,"Comedy, Crime, Drama",8.0,78.0,Kar-Wai Wong,92620,0.6
+76,77,Cidade de Deus,2002,A,130,"Crime, Drama",8.6,79.0,Fernando Meirelles,788864,7.56
+77,78,Citizen Kane,1941,UA,119,"Drama, Mystery",8.3,100.0,Orson Welles,459961,1.59
+78,79,City Lights,1931,G,87,"Comedy, Drama, Romance",8.5,99.0,Charles Chaplin,193138,0.02
+79,80,Cléo de 5 à 7,1962,,90,"Comedy, Drama, Music",7.8,87.0,Agnès Varda,26199,
+80,81,Coco,2017,U,105,"Animation, Adventure, Drama",8.4,81.0,Lee Unkrich,568931,209.73
+81,82,Cool Hand Luke,1967,A,127,"Crime, Drama",8.1,92.0,Stuart Rosenberg,186135,16.22
+82,83,Da hong denglong gaogao gua,1991,,125,"Drama, Romance",8.1,,Yimou Zhang,34748,2.6
+83,84,Dangal,2016,U,161,"Action, Biography, Drama",8.3,,Nitesh Tiwari,205017,12.39
+84,85,Dare mo shiranai,2004,PG-13,141,Drama,8.0,88.0,Kore-eda Hirokazu,30476,0.68
+85,86,Das Boot,1981,R,149,"Drama, War",8.4,85.0,Wolfgang Petersen,261028,11.49
+86,87,Das Cabinet des Dr. Caligari,1920,,76,"Horror, Mystery, Thriller",8.0,,Robert Wiene,68788,
+87,88,The Lives of Others,2006,A,137,"Drama, Mystery, Thriller",8.4,89.0,Florian Henckel von Donnersmarck,404798,11.29
+88,89,Das Testament des Dr. Mabuse,1933,,122,"Crime, Mystery, Thriller",7.9,,Fritz Lang,13402,
+89,90,Days of Heaven,1978,,94,"Drama, Romance",7.8,94.0,Terrence Malick,61608,
+90,91,Dead Poets Society,1989,U,128,"Comedy, Drama",8.1,79.0,Peter Weir,530632,95.86
+91,92,Der Himmel über Berlin,1987,U,128,"Drama, Fantasy, Romance",7.9,79.0,Wim Wenders,75417,3.33
+92,93,Der Untergang,2004,UA,156,"Biography, Drama, History",8.2,82.0,Oliver Hirschbiegel,370059,5.51
+93,94,Der letzte Mann,1924,,77,Drama,8.0,,F.W. Murnau,14962,0.09
+94,95,Dersu Uzala,1975,U,142,"Adventure, Biography, Drama",8.2,,Akira Kurosawa,32837,
+95,96,Det sjunde inseglet,1957,A,96,"Drama, Fantasy",8.1,88.0,Ingmar Bergman,195253,
+96,97,Dial M for Murder,1954,A,105,"Crime, Thriller",8.2,75.0,Alfred Hitchcock,185631,0.01
+97,98,Die Hard,1988,A,132,"Action, Thriller",8.2,72.0,John McTiernan,924390,83.01
+98,99,Dip huet seung hung,1989,R,111,"Action, Crime, Drama",7.8,82.0,John Woo,50518,
+99,100,Divorzio all'italiana,1961,,105,"Comedy, Drama, Romance",8.0,,Pietro Germi,13867,
+100,101,Django Unchained,2012,A,165,"Drama, Western",8.5,81.0,Quentin Tarantino,1657901,162.81
+101,102,Do the Right Thing,1989,U,120,"Comedy, Drama",8.0,93.0,Spike Lee,110163,27.55
+102,103,Dog Day Afternoon,1975,U,125,"Biography, Crime, Drama",8.0,86.0,Sidney Lumet,269829,50.0
+103,104,Dom za vesanje,1988,,142,"Comedy, Crime, Drama",8.1,,Emir Kusturica,32278,0.28
+104,105,Double Indemnity,1944,,107,"Crime, Drama, Film-Noir",8.3,95.0,Billy Wilder,165002,5.72
+105,106,Down by Law,1986,,107,"Comedy, Crime, Drama",7.7,75.0,Jim Jarmusch,54595,1.44
+106,107,"Dr. Mabuse, der Spieler",1922,,242,"Crime, Mystery, Thriller",7.8,,Fritz Lang,9042,
+107,108,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,A,95,"Comedy, War",8.4,97.0,Stanley Kubrick,510859,0.28
+108,109,Du rififi chez les hommes,1955,,118,"Crime, Drama, Thriller",8.1,97.0,Jules Dassin,36367,0.06
+109,110,Duck Soup,1933,,69,"Comedy, Musical",7.7,93.0,Leo McCarey,62251,
+110,111,E.T. the Extra-Terrestrial,1982,U,115,"Adventure, Family, Sci-Fi",7.9,92.0,Steven Spielberg,430840,435.11
+111,112,Edward Scissorhands,1990,U,105,"Drama, Fantasy, Romance",7.9,74.0,Tim Burton,515882,56.36
+112,113,El espíritu de la colmena,1973,,98,"Drama, Fantasy",7.8,87.0,Víctor Erice,20199,
+113,114,Pan's Labyrinth,2006,R,118,"Drama, Fantasy, War",8.2,98.0,Guillermo del Toro,694450,37.63
+114,115,El secreto de sus ojos,2009,R,129,"Drama, Mystery, Romance",8.2,80.0,Juan José Campanella,219264,6.39
+115,116,El ángel exterminador,1962,,95,"Drama, Fantasy",8.0,,Luis Buñuel,35046,
+116,117,Eternal Sunshine of the Spotless Mind,2004,UA,108,"Drama, Romance, Sci-Fi",8.3,89.0,Michel Gondry,1057436,34.4
+117,118,Fa yeung nin wah,2000,U,98,"Drama, Romance",8.1,87.0,Kar-Wai Wong,162807,2.73
+118,119,Fanny och Alexander,1982,A,188,Drama,8.1,100.0,Ingmar Bergman,66605,4.97
+119,120,Fantasia,1940,U,124,"Animation, Family, Fantasy",7.7,96.0,James Algar,102283,76.41
+120,121,Fargo,1996,A,98,"Crime, Thriller",8.1,86.0,Joel Coen,711533,24.61
+121,122,Faust: Eine deutsche Volkssage,1926,,107,"Drama, Fantasy, Horror",8.1,,F.W. Murnau,16347,
+122,123,Festen,1998,R,105,Drama,8.0,82.0,Thomas Vinterberg,92296,1.65
+123,124,Fight Club,1999,A,139,Drama,8.8,67.0,David Fincher,2267753,37.03
+124,125,Finding Nemo,2003,U,100,"Animation, Adventure, Comedy",8.2,90.0,Andrew Stanton,1094345,380.84
+125,126,Fitzcarraldo,1982,,158,"Adventure, Drama",8.0,,Werner Herzog,37742,
+126,127,Ford v Ferrari,2019,UA,152,"Action, Biography, Drama",8.1,81.0,James Mangold,448006,117.62
+127,128,Forrest Gump,1994,UA,142,"Drama, Romance",8.8,82.0,Robert Zemeckis,2207102,330.25
+128,129,Freaks,1932,,64,"Drama, Horror",7.8,80.0,Tod Browning,49770,0.63
+129,130,Full Metal Jacket,1987,UA,116,"Drama, War",8.3,78.0,Stanley Kubrick,777758,46.36
+130,131,Germania anno zero,1948,,78,"Drama, History, War",7.8,,Roberto Rossellini,13421,
+131,132,Gisaengchung,2019,A,132,"Drama, Thriller",8.5,96.0,Bong Joon Ho,911765,53.37
+132,133,Gladiator,2000,UA,155,"Action, Adventure, Drama",8.5,67.0,Ridley Scott,1584583,187.71
+133,134,Gone Girl,2014,A,149,"Drama, Mystery, Thriller",8.1,79.0,David Fincher,1044485,167.77
+134,135,Gone with the Wind,1939,U,238,"Drama, Romance, War",8.2,97.0,Victor Fleming,329292,198.68
+135,136,Good Will Hunting,1997,U,126,"Drama, Romance",8.3,71.0,Gus Van Sant,1035979,138.43
+136,137,Goodfellas,1990,A,145,"Biography, Crime, Drama",8.7,92.0,Martin Scorsese,1231111,46.84
+137,138,Gran Torino,2008,UA,116,Drama,8.1,72.0,Clint Eastwood,804798,148.1
+138,139,Greed,1924,,140,"Drama, Thriller, Western",8.0,,Erich von Stroheim,10592,0.16
+139,140,Groundhog Day,1993,U,101,"Comedy, Drama, Fantasy",8.0,72.0,Harold Ramis,670506,70.91
+140,141,Guling jie shaonian sharen shijian,1991,UA,237,"Crime, Drama, Romance",8.2,91.0,Edward Yang,12231,
+141,142,Hable con ella,2002,R,112,"Drama, Mystery, Romance",7.9,86.0,Pedro Almodóvar,116499,9.36
+142,143,Hana-bi,1997,,103,"Crime, Drama, Romance",7.7,83.0,Takeshi Kitano,32577,0.23
+143,144,Hannah and Her Sisters,1986,,107,"Comedy, Drama",7.8,90.0,Woody Allen,75431,40.08
+144,145,Harry Potter and the Deathly Hallows - Part 2,2011,UA,130,"Adventure, Family, Fantasy",8.1,85.0,David Yates,928945,381.01
+145,146,Hauru no ugoku shiro,2004,U,119,"Animation, Adventure, Family",8.2,82.0,Hayao Miyazaki,433138,4.71
+146,147,Heat,1995,A,170,"Action, Crime, Drama",8.3,76.0,Michael Mann,703076,67.44
+147,148,High Noon,1952,U,85,"Drama, Thriller, Western",8.0,89.0,Fred Zinnemann,108902,9.45
+148,149,Hiroshima mon amour,1959,,90,"Drama, Romance",7.8,,Alain Resnais,35173,0.09
+149,150,His Girl Friday,1940,,92,"Comedy, Drama, Romance",7.8,,Howard Hawks,62175,0.3
+150,151,Hotaru no haka,1988,U,89,"Animation, Drama, War",8.5,94.0,Isao Takahata,301124,
+151,152,Hotel Rwanda,2004,UA,121,"Biography, Drama, History",8.1,79.0,Terry George,368164,23.53
+152,153,How to Train Your Dragon,2010,U,98,"Animation, Action, Adventure",8.1,75.0,Dean DeBlois,784405,217.58
+153,154,Huo zhe,1994,,133,"Drama, War",8.3,,Yimou Zhang,20061,2.33
+154,155,Höstsonaten,1978,U,99,"Drama, Music",8.1,,Ingmar Bergman,37077,
+155,156,I Am a Fugitive from a Chain Gang,1932,,92,"Crime, Drama, Film-Noir",8.2,,Mervyn LeRoy,14217,1.42
+156,157,I vitelloni,1953,,109,"Comedy, Drama",7.8,87.0,Federico Fellini,19604,0.1
+157,158,Idi i smotri,1985,A,142,"Drama, Thriller, War",8.4,,Elem Klimov,92659,
+158,159,Ikiru,1952,U,143,Drama,8.3,92.0,Akira Kurosawa,85355,0.06
+159,160,"Il buono, il brutto, il cattivo",1966,A,161,"Adventure, Western",8.8,90.0,Sergio Leone,797611,6.1
+160,161,Il conformista,1970,UA,113,Drama,7.9,100.0,Bernardo Bertolucci,33056,0.54
+161,162,Il gattopardo,1963,,186,"Drama, History",7.9,100.0,Luchino Visconti,28267,
+162,163,Il sorpasso,1962,,108,"Comedy, Drama",8.2,,Dino Risi,12119,
+163,164,Il vangelo secondo Matteo,1964,,137,"Biography, Drama, History",7.6,,Pier Paolo Pasolini,13438,
+164,165,In a Lonely Place,1950,,94,"Drama, Film-Noir, Mystery",7.9,,Nicholas Ray,34468,
+165,166,In the Name of the Father,1993,UA,133,"Biography, Crime, Drama",8.1,84.0,Jim Sheridan,184348,25.01
+166,167,Incendies,2010,18,131,"Drama, Mystery, War",8.3,80.0,Denis Villeneuve,192533,6.86
+167,168,Inception,2010,UA,148,"Action, Adventure, Sci-Fi",8.8,74.0,Christopher Nolan,2497653,292.58
+168,169,Indiana Jones and the Last Crusade,1989,U,127,"Action, Adventure",8.2,65.0,Steven Spielberg,799001,197.17
+169,170,Inglourious Basterds,2009,A,153,"Adventure, Drama, War",8.4,69.0,Quentin Tarantino,1546641,120.54
+170,171,Inside Out,2015,U,95,"Animation, Adventure, Comedy",8.1,94.0,Pete Docter,766323,356.46
+171,172,Interstellar,2014,UA,169,"Adventure, Drama, Sci-Fi",8.7,74.0,Christopher Nolan,2027365,188.02
+172,173,Intolerance: Love's Struggle Throughout the Ages,1916,,163,"Drama, History",7.7,99.0,D.W. Griffith,16502,2.18
+173,174,The Intouchables,2011,UA,112,"Biography, Comedy, Drama",8.5,57.0,Olivier Nakache,909873,13.18
+174,175,It Happened One Night,1934,,105,"Comedy, Romance",8.1,87.0,Frank Capra,110147,4.36
+175,176,It's Such a Beautiful Day,2012,,62,"Animation, Comedy, Drama",8.2,90.0,Don Hertzfeldt,15497,
+176,177,It's a Wonderful Life,1946,PG,130,"Drama, Family, Fantasy",8.6,89.0,Frank Capra,486295,
+177,178,Ivanovo detstvo,1962,A,95,"Drama, War",8.0,,Andrei Tarkovsky,39167,
+178,179,Jagten,2012,7,115,Drama,8.3,77.0,Thomas Vinterberg,355366,0.69
+179,180,Jaws,1975,A,124,"Adventure, Mystery, Thriller",8.1,87.0,Steven Spielberg,647846,260.0
+180,181,Jean de Florette,1986,U,120,"Comedy, Drama",8.1,,Claude Berri,27187,4.94
+181,182,"Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",1975,,202,Drama,7.5,94.0,Chantal Akerman,13202,0.02
+182,183,Jeder für sich und Gott gegen alle,1974,,110,"Biography, Drama, History",7.7,,Werner Herzog,18618,
+183,184,Jeux interdits,1952,,86,"Comedy, Drama, War",8.0,,René Clément,12927,0.01
+184,185,Jodaeiye Nader az Simin,2011,7,123,Drama,8.3,95.0,Asghar Farhadi,255091,7.1
+185,186,Judgment at Nuremberg,1961,A,179,"Drama, War",8.3,60.0,Stanley Kramer,83077,
+186,187,Jules et Jim,1962,,105,"Drama, Romance",7.7,97.0,François Truffaut,43828,
+187,188,Jungfrukällan,1960,A,89,Drama,8.0,,Ingmar Bergman,31142,1.53
+188,189,Jôi-uchi: Hairyô tsuma shimatsu,1967,,128,Drama,8.3,90.0,Masaki Kobayashi,13758,
+189,190,Kagemusha,1980,U,180,"Drama, History, War",7.9,84.0,Akira Kurosawa,37634,
+190,191,Kaguya-hime no monogatari,2013,U,137,"Animation, Drama, Family",8.0,89.0,Isao Takahata,52141,1.51
+191,192,Kaidan,1964,,183,"Drama, Fantasy, Horror",7.9,,Masaki Kobayashi,19508,
+192,193,Kakushi-toride no san-akunin,1958,,139,"Action, Adventure, Drama",8.1,89.0,Akira Kurosawa,41527,
+193,194,Kaze no tani no Naushika,1984,U,117,"Animation, Adventure, Sci-Fi",8.0,86.0,Hayao Miyazaki,178772,0.5
+194,195,Kes,1969,PG-13,111,"Drama, Family",7.9,,Ken Loach,22495,
+195,196,Khane-ye doust kodjast?,1987,,83,"Drama, Family",8.1,,Abbas Kiarostami,17731,
+196,197,Kimi no na wa.,2016,U,106,"Animation, Drama, Fantasy",8.4,81.0,Makoto Shinkai,306631,5.02
+197,198,Kind Hearts and Coronets,1949,U,106,"Comedy, Crime",8.0,,Robert Hamer,39252,
+198,199,Klaus,2019,7,96,"Animation, Adventure, Comedy",8.2,65.0,Sergio Pablos,178551,
+199,200,Krótki film o milosci,1988,,87,"Drama, Romance",8.1,,Krzysztof Kieslowski,25535,
+200,201,Krótki film o zabijaniu,1988,,84,"Crime, Drama",8.0,,Krzysztof Kieslowski,21961,
+201,202,Kumonosu-jô,1957,U,110,Drama,8.1,,Akira Kurosawa,55033,
+202,203,Kôkaku kidôtai,1995,UA,83,"Animation, Action, Crime",7.9,76.0,Mamoru Oshii,153349,0.52
+203,204,Körkarlen,1921,,107,"Drama, Fantasy, Horror",8.0,,Victor Sjöström,13774,
+204,205,L'Atalante,1934,,89,"Comedy, Drama, Romance",7.7,,Jean Vigo,17210,
+205,206,L'année dernière à Marienbad,1961,,94,"Drama, Mystery",7.7,,Alain Resnais,24397,0.06
+206,207,The Army of Shadows,1969,,145,"Drama, War",8.1,99.0,Jean-Pierre Melville,25383,0.74
+207,208,L'avventura,1960,U,144,"Drama, Mystery, Romance",7.7,,Michelangelo Antonioni,32111,
+208,209,L'eclisse,1962,,126,"Drama, Romance",7.7,,Michelangelo Antonioni,21678,
+209,210,L.A. Confidential,1997,A,138,"Crime, Drama, Mystery",8.2,91.0,Curtis Hanson,607435,64.62
+210,211,La Belle et la Bête,1946,,96,"Drama, Fantasy, Romance",7.9,92.0,Jean Cocteau,27747,0.3
+211,212,La battaglia di Algeri,1966,,121,"Drama, War",8.1,96.0,Gillo Pontecorvo,64476,0.06
+212,213,La dolce vita,1960,A,174,"Comedy, Drama",8.0,95.0,Federico Fellini,77099,19.52
+213,214,La double vie de Véronique,1991,R,98,"Drama, Fantasy, Music",7.7,86.0,Krzysztof Kieslowski,52081,2.0
+214,215,La Grande Illusion,1937,,113,"Drama, War",8.1,,Jean Renoir,38420,0.17
+215,216,La haine,1995,Not Rated,98,"Crime, Drama",8.1,,Mathieu Kassovitz,190802,0.31
+216,217,La jetée,1962,,28,"Short, Drama, Romance",8.2,,Chris Marker,36465,
+217,218,La maman et la putain,1973,,217,"Drama, Romance",7.8,89.0,Jean Eustache,6493,
+218,219,La meglio gioventù,2003,R,366,"Drama, Romance",8.5,89.0,Marco Tullio Giordana,22942,0.27
+219,220,La notte,1961,,122,Drama,8.0,,Michelangelo Antonioni,23571,0.04
+220,221,La nuit américaine,1973,U,116,"Comedy, Drama, Romance",8.0,,François Truffaut,24423,0.02
+221,222,La passion de Jeanne d'Arc,1928,,110,"Biography, Drama, History",8.1,98.0,Carl Theodor Dreyer,59346,0.02
+222,223,La règle du jeu,1939,,110,"Comedy, Drama",7.9,99.0,Jean Renoir,30834,
+223,224,La strada,1954,,108,Drama,8.0,,Federico Fellini,65869,
+224,225,La vita è bella,1997,U,116,"Comedy, Drama, Romance",8.6,59.0,Roberto Benigni,730429,57.6
+225,226,Ladri di biciclette,1948,U,89,Drama,8.3,,Vittorio De Sica,172198,0.33
+226,227,Laura,1944,,88,"Drama, Film-Noir, Mystery",7.9,,Otto Preminger,50365,4.36
+227,228,Lawrence of Arabia,1962,U,218,"Adventure, Biography, Drama",8.3,100.0,David Lean,308749,44.82
+228,229,Le Samouraï,1967,,105,"Crime, Drama, Thriller",8.0,,Jean-Pierre Melville,55633,0.04
+229,230,Le ballon rouge,1956,,34,"Short, Comedy, Drama",8.1,,Albert Lamorisse,19742,
+230,231,Le cercle rouge,1970,,140,"Crime, Drama, Thriller",7.9,92.0,Jean-Pierre Melville,27549,0.37
+231,232,Le charme discret de la bourgeoisie,1972,,102,Comedy,7.8,93.0,Luis Buñuel,45871,0.2
+232,233,Le fabuleux destin d'Amélie Poulain,2001,U,122,"Comedy, Romance",8.3,69.0,Jean-Pierre Jeunet,784363,33.23
+233,234,Le fantôme de la liberté,1974,,104,Comedy,7.8,,Luis Buñuel,16942,0.01
+234,235,Le notti di Cabiria,1957,,110,Drama,8.1,,Federico Fellini,51382,0.75
+235,236,Le salaire de la peur,1953,U,131,"Adventure, Drama, Thriller",8.2,85.0,Henri-Georges Clouzot,65225,
+236,237,Le scaphandre et le papillon,2007,PG-13,112,"Biography, Drama",8.0,92.0,Julian Schnabel,109861,5.99
+237,238,Le trou,1960,,131,"Crime, Drama, Thriller",8.5,,Jacques Becker,19770,0.03
+238,239,A Trip to the Moon,1902,,13,"Short, Action, Adventure",8.2,,Georges Méliès,54428,
+239,240,Les diaboliques,1955,,117,"Crime, Drama, Horror",8.1,,Henri-Georges Clouzot,68636,1.09
+240,241,Les enfants du paradis,1945,,189,"Drama, Romance",8.3,96.0,Marcel Carné,20874,
+241,242,Les quatre cents coups,1959,U,99,"Crime, Drama",8.1,,François Truffaut,125837,
+242,243,Les triplettes de Belleville,2003,PG-13,80,"Animation, Adventure, Comedy",7.7,91.0,Sylvain Chomet,56507,7.0
+243,244,Letter from an Unknown Woman,1948,,87,"Drama, Romance",7.9,,Max Ophüls,13408,
+244,245,Letyat zhuravli,1957,,95,"Drama, Romance, War",8.3,,Mikhail Kalatozov,19268,0.02
+245,246,Life of Brian,1979,,94,Comedy,8.0,77.0,Terry Jones,418257,20.05
+246,247,Limelight,1952,,137,"Drama, Music, Romance",8.0,84.0,Charles Chaplin,21765,1.0
+247,248,Los olvidados,1950,,85,"Crime, Drama",8.3,,Luis Buñuel,21698,
+248,249,Love and Death,1975,,85,"Comedy, War",7.7,89.0,Woody Allen,40328,
+249,250,Léon,1994,A,110,"Action, Crime, Drama",8.5,64.0,Luc Besson,1222609,19.5
+250,251,M - Eine Stadt sucht einen Mörder,1931,,117,"Crime, Mystery, Thriller",8.3,,Fritz Lang,165934,0.03
+251,252,Ma nuit chez Maud,1969,,110,"Comedy, Drama, Romance",7.8,,Éric Rohmer,14229,
+252,253,Mad Max: Fury Road,2015,UA,120,"Action, Adventure, Sci-Fi",8.1,90.0,George Miller,1062652,154.06
+253,254,Madame de...,1953,,105,"Drama, Romance",7.9,,Max Ophüls,10887,
+254,255,Majo no takkyûbin,1989,U,103,"Animation, Family, Fantasy",7.8,85.0,Hayao Miyazaki,159439,
+255,256,Make Way for Tomorrow,1937,,91,"Drama, Romance",8.2,,Leo McCarey,9299,
+256,257,Manbiki kazoku,2018,A,121,"Crime, Drama, Thriller",7.9,93.0,Kore-eda Hirokazu,83991,3.31
+257,258,Manhattan,1979,,96,"Comedy, Drama, Romance",7.8,83.0,Woody Allen,145381,45.7
+258,259,Marriage Story,2019,U,137,"Drama, Romance",7.9,94.0,Noah Baumbach,337562,2.0
+259,260,Mary and Max.,2009,U,92,"Animation, Comedy, Drama",8.1,,Adam Elliot,184531,
+260,261,Memento,2000,UA,113,"Mystery, Thriller",8.4,83.0,Christopher Nolan,1300466,25.54
+261,262,Meshes of the Afternoon,1943,,14,"Short, Fantasy, Mystery",7.8,,Maya Deren,14856,
+262,263,Metropolis,1927,,153,"Drama, Sci-Fi",8.3,98.0,Fritz Lang,182572,1.24
+263,264,Midnight Cowboy,1969,A,113,Drama,7.8,79.0,John Schlesinger,118117,44.79
+264,265,Million Dollar Baby,2004,UA,132,"Drama, Sport",8.1,86.0,Clint Eastwood,712930,100.49
+265,266,Mimi wo sumaseba,1995,U,111,"Animation, Drama, Family",7.8,75.0,Yoshifumi Kondô,69999,
+266,267,Modern Times,1936,,87,"Comedy, Drama, Romance",8.5,96.0,Charles Chaplin,255272,0.16
+267,268,Mommy,2014,R,139,Drama,8.0,74.0,Xavier Dolan,60798,3.49
+268,269,Mon oncle,1958,,116,Comedy,7.7,,Jacques Tati,23885,
+269,270,Mononoke-hime,1997,U,134,"Animation, Action, Adventure",8.3,76.0,Hayao Miyazaki,422103,2.38
+270,271,Monsieur Verdoux,1947,,124,"Comedy, Crime, Drama",7.8,,Charles Chaplin,18828,0.33
+271,272,"Monsters, Inc.",2001,U,92,"Animation, Adventure, Comedy",8.1,79.0,Pete Docter,960448,289.92
+272,273,Monty Python and the Holy Grail,1975,U,91,"Adventure, Comedy, Fantasy",8.2,91.0,Terry Gilliam,563100,1.23
+273,274,Mou gaan dou,2002,UA,101,"Action, Crime, Drama",8.0,75.0,Andrew Lau,129764,0.17
+274,275,Mr. Smith Goes to Washington,1939,U,129,"Comedy, Drama",8.1,73.0,Frank Capra,119946,9.6
+275,276,Mulholland Dr.,2001,UA,147,"Drama, Mystery, Thriller",7.9,86.0,David Lynch,377185,7.22
+276,277,My Fair Lady,1964,U,170,"Drama, Family, Musical",7.7,95.0,George Cukor,100123,72.0
+277,278,My Left Foot: The Story of Christy Brown,1989,U,103,"Biography, Drama",7.8,97.0,Jim Sheridan,78576,14.74
+278,279,Naked,1993,,131,"Comedy, Drama",7.7,85.0,Mike Leigh,42941,1.77
+279,280,Napoléon vu par Abel Gance,1927,,330,"Biography, Drama, History",8.2,,Abel Gance,8570,
+280,281,Nashville,1975,,160,"Comedy, Drama, Music",7.6,96.0,Robert Altman,28080,14.82
+281,282,Nattvardsgästerna,1963,,81,Drama,8.0,,Ingmar Bergman,26630,
+282,283,Nema-ye Nazdik,1990,,98,"Biography, Crime, Drama",8.2,92.0,Abbas Kiarostami,22272,0.0
+283,284,Network,1976,UA,121,Drama,8.1,83.0,Sidney Lumet,167505,
+284,285,Ninotchka,1939,,110,"Comedy, Romance",7.8,,Ernst Lubitsch,22468,1.19
+285,286,No Country for Old Men,2007,18,122,"Crime, Drama, Thriller",8.2,92.0,Ethan Coen,1036633,74.28
+286,287,North by Northwest,1959,U,136,"Action, Adventure, Mystery",8.3,98.0,Alfred Hitchcock,341406,13.28
+287,288,Nosferatu,1922,,94,"Fantasy, Horror",7.9,,F.W. Murnau,103727,
+288,289,Nostalgia,1983,,125,Drama,7.9,,Andrei Tarkovsky,29406,0.01
+289,290,Notorious,1946,U,102,"Drama, Film-Noir, Romance",7.9,100.0,Alfred Hitchcock,105725,10.46
+290,291,Nuovo Cinema Paradiso,1988,U,155,"Drama, Romance",8.5,80.0,Giuseppe Tornatore,277240,11.99
+291,292,The Shop on Main Street,1965,,128,"Drama, War",8.2,,Ján Kadár,9546,
+292,293,Sacrifice,1986,U,149,Drama,7.9,,Andrei Tarkovsky,30447,0.3
+293,294,Oldeuboi,2003,A,101,"Action, Drama, Mystery",8.4,78.0,Park Chan-wook,619679,0.71
+294,295,On the Waterfront,1954,A,108,"Crime, Drama, Thriller",8.1,91.0,Elia Kazan,162150,9.6
+295,296,Once Upon a Time in America,1984,A,229,"Crime, Drama",8.3,75.0,Sergio Leone,371087,5.32
+296,297,One Flew Over the Cuckoo's Nest,1975,A,133,Drama,8.7,84.0,Milos Forman,1053709,112.0
+297,298,Onibaba,1964,Not Rated,103,"Drama, Horror, Thriller",7.9,,Kaneto Shindô,21017,
+298,299,Opening Night,1977,,144,Drama,7.9,69.0,John Cassavetes,11842,
+299,300,Ordet,1955,,126,Drama,8.3,,Carl Theodor Dreyer,17077,
+300,301,Orphée,1950,,112,"Drama, Fantasy, Romance",7.9,,Jean Cocteau,13202,
+301,302,Our Hospitality,1923,,65,"Comedy, Romance, Thriller",7.8,,John G. Blystone,12277,1.17
+302,303,Out of the Past,1947,,97,"Crime, Drama, Film-Noir",8.0,85.0,Jacques Tourneur,40178,
+303,304,Paper Moon,1973,U,102,"Comedy, Crime, Drama",8.1,77.0,Peter Bogdanovich,51446,30.93
+304,305,"Paris, Texas",1984,U,145,Drama,8.1,81.0,Wim Wenders,115241,2.18
+305,306,Pather Panchali,1955,U,125,Drama,8.2,,Satyajit Ray,37273,0.54
+306,307,Paths of Glory,1957,A,88,"Drama, War",8.4,90.0,Stanley Kubrick,208709,
+307,308,Per qualche dollaro in più,1965,U,132,"Drama, Western",8.2,74.0,Sergio Leone,269781,15.0
+308,309,Persepolis,2007,12+,96,"Animation, Biography, Drama",8.0,90.0,Vincent Paronnaud,98939,4.45
+309,310,Persona,1966,,85,"Drama, Thriller",8.1,86.0,Ingmar Bergman,128548,
+310,311,Pickpocket,1959,,76,"Crime, Drama",7.6,,Robert Bresson,24748,
+311,312,Pierrot le fou,1965,,110,"Crime, Drama, Romance",7.4,,Jean-Luc Godard,36389,
+312,313,Platoon,1986,UA,120,"Drama, War",8.1,92.0,Oliver Stone,432257,138.53
+313,314,Playtime,1967,,155,Comedy,7.8,99.0,Jacques Tati,25319,
+314,315,Portrait de la jeune fille en feu,2019,18,122,"Drama, Romance",8.1,95.0,Céline Sciamma,105321,3.76
+315,316,Psycho,1960,A,109,"Horror, Mystery, Thriller",8.5,97.0,Alfred Hitchcock,706938,32.0
+316,317,Pulp Fiction,1994,A,154,"Crime, Drama",8.9,95.0,Quentin Tarantino,2171819,107.93
+317,318,Pâfekuto burû,1997,A,81,"Animation, Crime, Drama",8.0,67.0,Satoshi Kon,90731,0.78
+318,319,Raging Bull,1980,A,129,"Biography, Drama, Sport",8.1,90.0,Martin Scorsese,373518,23.38
+319,320,Raiders of the Lost Ark,1981,A,115,"Action, Adventure",8.4,86.0,Steven Spielberg,1022012,248.16
+320,321,Ran,1985,Not Rated,160,"Action, Drama, War",8.2,97.0,Akira Kurosawa,133601,4.14
+321,322,Rashômon,1950,U,88,"Crime, Drama, Mystery",8.2,98.0,Akira Kurosawa,177450,0.1
+322,323,Ratatouille,2007,U,111,"Animation, Adventure, Comedy",8.1,96.0,Brad Bird,801383,206.45
+323,324,Rear Window,1954,U,112,"Mystery, Thriller",8.5,100.0,Alfred Hitchcock,513872,36.76
+324,325,Rebecca,1940,,130,"Drama, Film-Noir, Mystery",8.1,86.0,Alfred Hitchcock,144382,4.36
+325,326,Relatos salvajes,2014,18,122,"Comedy, Drama, Thriller",8.1,77.0,Damián Szifron,212085,3.11
+326,327,Repulsion,1965,,105,"Drama, Horror, Thriller",7.6,91.0,Roman Polanski,56434,
+327,328,Requiem for a Dream,2000,A,102,Drama,8.3,71.0,Darren Aronofsky,884030,3.64
+328,329,Reservoir Dogs,1992,15+,99,"Crime, Thriller",8.3,81.0,Quentin Tarantino,1070129,2.83
+329,330,Rio Bravo,1959,,141,"Drama, Western",8.0,93.0,Howard Hawks,67021,12.54
+330,331,Rocco e i suoi fratelli,1960,,179,"Crime, Drama, Sport",8.2,84.0,Luchino Visconti,20809,
+331,332,Rocky,1976,U,120,"Drama, Sport",8.1,70.0,John G. Avildsen,617041,117.24
+332,333,Roma città aperta,1945,,103,"Drama, Thriller, War",8.0,,Roberto Rossellini,28415,
+333,334,Roman Holiday,1953,U,118,"Comedy, Romance",8.0,78.0,William Wyler,145497,
+334,335,Room,2015,U,118,"Drama, Thriller",8.1,86.0,Lenny Abrahamson,443078,14.68
+335,336,Rope,1948,A,80,"Crime, Drama, Mystery",7.9,73.0,Alfred Hitchcock,151257,
+336,337,Rosemary's Baby,1968,A,137,"Drama, Horror",8.0,96.0,Roman Polanski,231216,
+337,338,Safety Last!,1923,,74,"Action, Comedy, Thriller",8.1,,Fred C. Newmeyer,22400,1.36
+338,339,Salinui chueok,2003,UA,131,"Crime, Drama, Mystery",8.1,82.0,Bong Joon Ho,208097,0.01
+339,340,An Autumn Afternoon,1962,,113,Drama,8.0,91.0,Yasujirô Ozu,10277,
+340,341,Sans soleil,1983,,104,"Documentary, Drama",7.8,,Chris Marker,11969,0.03
+341,342,Sanshô dayû,1954,,124,Drama,8.4,96.0,Kenji Mizoguchi,17851,
+342,343,Saving Private Ryan,1998,A,169,"Drama, War",8.6,91.0,Steven Spielberg,1467854,216.54
+343,344,Scarface,1983,A,170,"Crime, Drama",8.3,65.0,Brian De Palma,896980,45.6
+344,345,Scarface,1932,,93,"Action, Crime, Drama",7.7,90.0,Howard Hawks,29789,
+345,346,Scener ur ett äktenskap,1974,PG,169,Drama,8.3,,Ingmar Bergman,8359,0.68
+346,347,Schindler's List,1993,A,195,"Biography, Drama, History",9.0,95.0,Steven Spielberg,1423121,96.9
+347,348,Sciuscià,1946,,87,Drama,8.0,,Vittorio De Sica,7995,
+348,349,Se7en,1995,A,127,"Crime, Drama, Mystery",8.6,65.0,David Fincher,1758286,100.13
+349,350,Secrets & Lies,1996,U,136,"Comedy, Drama",8.0,92.0,Mike Leigh,46425,13.42
+350,351,Sen to Chihiro no kamikakushi,2001,U,125,"Animation, Adventure, Family",8.6,96.0,Hayao Miyazaki,824316,10.06
+351,352,Seppuku,1962,,133,"Action, Drama, Mystery",8.6,85.0,Masaki Kobayashi,65669,
+352,353,Shadow of a Doubt,1943,,108,"Film-Noir, Thriller",7.8,94.0,Alfred Hitchcock,69404,
+353,354,Sherlock Jr.,1924,,45,"Action, Comedy, Romance",8.2,,Buster Keaton,55216,0.98
+354,355,Shichinin no samurai,1954,U,207,"Action, Drama",8.6,98.0,Akira Kurosawa,361362,0.27
+355,356,Singin' in the Rain,1952,G,103,"Comedy, Musical, Romance",8.3,99.0,Stanley Donen,256010,8.82
+356,357,Sleuth,1972,,138,"Mystery, Thriller",8.0,,Joseph L. Mankiewicz,49628,4.08
+357,358,Smultronstället,1957,U,91,"Drama, Romance",8.1,88.0,Ingmar Bergman,113096,
+358,359,Solaris,1972,U,167,"Drama, Mystery, Sci-Fi",8.0,93.0,Andrei Tarkovsky,96657,
+359,360,Some Like It Hot,1959,U,121,"Comedy, Music, Romance",8.2,98.0,Billy Wilder,279499,25.0
+360,361,Song of the Sea,2014,PG,93,"Animation, Adventure, Drama",8.0,85.0,Tomm Moore,62153,0.86
+361,362,Soy Cuba,1964,,141,Drama,8.2,,Mikhail Kalatozov,10396,
+362,363,Spider-Man: Into the Spider-Verse,2018,U,117,"Animation, Action, Adventure",8.4,87.0,Bob Persichetti,646230,190.24
+363,364,Spotlight,2015,A,129,"Biography, Crime, Drama",8.1,93.0,Tom McCarthy,494350,45.06
+364,365,Stagecoach,1939,,96,"Adventure, Drama, Western",7.8,93.0,John Ford,52755,
+365,366,Stalag 17,1953,,120,"Comedy, Drama, War",8.0,84.0,Billy Wilder,57984,
+366,367,Stalker,1979,U,162,"Drama, Sci-Fi",8.1,85.0,Andrei Tarkovsky,142039,0.23
+367,368,Stand by Me,1986,U,89,"Adventure, Comedy, Drama",8.1,75.0,Rob Reiner,432435,52.29
+368,369,Star Wars,1977,U,121,"Action, Adventure, Fantasy",8.6,90.0,George Lucas,1426903,322.74
+369,370,Star Wars: Episode V - The Empire Strikes Back,1980,UA,124,"Action, Adventure, Fantasy",8.7,82.0,Irvin Kershner,1356025,290.48
+370,371,"Steamboat Bill, Jr.",1928,,70,"Action, Comedy, Drama",7.8,,Charles Reisner,15858,
+371,372,Strangers on a Train,1951,A,101,"Crime, Drama, Film-Noir",7.9,88.0,Alfred Hitchcock,139337,7.63
+372,373,Stroszek,1977,,115,"Comedy, Drama",7.7,,Werner Herzog,15080,
+373,374,Suna no onna,1964,,147,"Drama, Thriller",8.5,,Hiroshi Teshigahara,22027,
+374,375,Sunrise: A Song of Two Humans,1927,,94,"Drama, Romance",8.1,95.0,F.W. Murnau,53228,0.54
+375,376,Sunset Blvd.,1950,,110,"Drama, Film-Noir",8.4,94.0,Billy Wilder,232776,
+376,377,Sweet Smell of Success,1957,U,96,"Drama, Film-Noir",8.0,100.0,Alexander Mackendrick,35041,
+377,378,Sátántangó,1994,,439,Drama,8.2,,Béla Tarr,12285,
+378,379,Såsom i en spegel,1961,,90,Drama,7.9,84.0,Ingmar Bergman,26951,
+379,380,Taare Zameen Par,2007,U,162,"Drama, Family",8.3,,Aamir Khan,203412,1.22
+380,381,Tanin no kao,1966,,122,"Drama, Horror, Sci-Fi",7.9,,Hiroshi Teshigahara,10101,
+381,382,Tanpopo,1985,,114,Comedy,7.9,87.0,Jûzô Itami,21831,0.22
+382,383,Tasogare Seibei,2002,,129,"Drama, Romance",8.1,82.0,Yôji Yamada,25063,
+383,384,Taxi Driver,1976,A,114,"Crime, Drama",8.2,94.0,Martin Scorsese,899162,28.26
+384,385,Tengoku to jigoku,1963,,143,"Crime, Drama, Mystery",8.4,90.0,Akira Kurosawa,51086,
+385,386,Tenkû no shiro Rapyuta,1986,U,125,"Animation, Adventure, Family",8.0,78.0,Hayao Miyazaki,177598,
+386,387,Terminator 2: Judgment Day,1991,A,137,"Action, Sci-Fi",8.6,75.0,James Cameron,1153832,204.84
+387,388,The Apartment,1960,U,125,"Comedy, Drama, Romance",8.3,94.0,Billy Wilder,192502,18.6
+388,389,The Best Years of Our Lives,1946,,170,"Drama, Romance, War",8.1,93.0,William Wyler,69184,23.65
+389,390,The Big Heat,1953,,89,"Crime, Film-Noir, Thriller",7.9,,Fritz Lang,28674,
+390,391,The Big Lebowski,1998,UA,117,"Comedy, Crime",8.1,71.0,Joel Coen,847409,17.5
+391,392,The Big Sleep,1946,,114,"Crime, Film-Noir, Mystery",7.9,86.0,Howard Hawks,89415,6.54
+392,393,The Bridge on the River Kwai,1957,U,161,"Adventure, Drama, War",8.1,87.0,David Lean,230447,44.91
+393,394,The Cameraman,1928,,76,"Comedy, Drama, Family",8.0,,Edward Sedgwick,12843,
+394,395,The Circus,1928,,72,"Comedy, Family, Romance",8.1,90.0,Charles Chaplin,35551,
+395,396,The Conversation,1974,U,113,"Drama, Mystery, Thriller",7.8,87.0,Francis Ford Coppola,118854,4.42
+396,397,The Crowd,1928,,98,"Drama, Romance",8.1,,King Vidor,8969,
+397,398,The Dark Knight,2008,UA,152,"Action, Crime, Drama",9.0,84.0,Christopher Nolan,2813407,534.86
+398,399,The Deer Hunter,1978,A,183,"Drama, War",8.1,86.0,Michael Cimino,356384,48.98
+399,400,The Departed,2006,A,151,"Crime, Drama, Thriller",8.5,85.0,Martin Scorsese,1396394,132.38
+400,401,The Elephant Man,1980,UA,124,"Biography, Drama",8.2,78.0,David Lynch,254377,
+401,402,The French Connection,1971,A,104,"Action, Crime, Drama",7.7,94.0,William Friedkin,132794,15.63
+402,403,The General,1926,,78,"Action, Adventure, Comedy",8.1,,Clyde Bruckman,96599,1.03
+403,404,The Godfather,1972,A,175,"Crime, Drama",9.2,100.0,Francis Ford Coppola,1973909,134.97
+404,405,The Godfather Part II,1974,A,202,"Crime, Drama",9.0,90.0,Francis Ford Coppola,1339756,57.3
+405,406,The Gold Rush,1925,,95,"Adventure, Comedy, Drama",8.1,,Charles Chaplin,116890,5.45
+406,407,The Graduate,1967,A,106,"Comedy, Drama, Romance",8.0,83.0,Mike Nichols,285392,104.95
+407,408,The Grand Budapest Hotel,2014,UA,99,"Adventure, Comedy, Crime",8.1,88.0,Wes Anderson,869324,59.1
+408,409,The Grapes of Wrath,1940,,129,Drama,8.1,96.0,John Ford,98554,0.06
+409,410,The Great Dictator,1940,,125,"Comedy, Drama, War",8.4,,Charles Chaplin,234153,0.29
+410,411,The Great Escape,1963,U,172,"Adventure, Drama, History",8.2,86.0,John Sturges,255323,12.1
+411,412,The Green Mile,1999,UA,189,"Crime, Drama, Fantasy",8.6,61.0,Frank Darabont,1378262,136.8
+412,413,The Heiress,1949,,115,"Drama, Romance",8.1,,William Wyler,16971,
+413,414,The Hustler,1961,A,134,"Drama, Sport",8.0,90.0,Robert Rossen,85810,8.28
+414,415,The Incredibles,2004,U,115,"Animation, Action, Adventure",8.0,90.0,Brad Bird,789808,261.44
+415,416,The Iron Giant,1999,U,86,"Animation, Action, Adventure",8.1,85.0,Brad Bird,220285,23.16
+416,417,The Kid,1921,,68,"Comedy, Drama, Family",8.2,,Charles Chaplin,132780,5.45
+417,418,The Killing,1956,,84,"Crime, Drama, Film-Noir",7.9,91.0,Stanley Kubrick,95781,
+418,419,The King's Speech,2010,U,118,"Biography, Drama, History",8.0,88.0,Tom Hooper,701371,138.8
+419,420,The Last Picture Show,1971,U,118,"Drama, Romance",8.0,93.0,Peter Bogdanovich,51539,29.13
+420,421,The Life and Death of Colonel Blimp,1943,,163,"Drama, Romance, War",8.0,,Michael Powell,16007,
+421,422,The Lion King,1994,U,88,"Animation, Adventure, Drama",8.5,88.0,Roger Allers,1119428,422.78
+422,423,The Lord of the Rings: The Fellowship of the Ring,2001,U,178,"Action, Adventure, Drama",8.8,92.0,Peter Jackson,1966249,315.54
+423,424,The Lord of the Rings: The Return of the King,2003,U,201,"Action, Adventure, Drama",9.0,94.0,Peter Jackson,1939334,377.85
+424,425,The Lord of the Rings: The Two Towers,2002,UA,179,"Action, Adventure, Drama",8.8,87.0,Peter Jackson,1748588,342.55
+425,426,The Maltese Falcon,1941,,100,"Crime, Film-Noir, Mystery",8.0,97.0,John Huston,164802,2.11
+426,427,The Man Who Shot Liberty Valance,1962,U,123,"Drama, Western",8.1,94.0,John Ford,80957,
+427,428,The Man Who Would Be King,1975,U,129,"Adventure, War",7.8,91.0,John Huston,51370,
+428,429,The Matrix,1999,A,136,"Action, Sci-Fi",8.7,73.0,Lana Wachowski,2013195,171.48
+429,430,The Miracle Worker,1962,,106,"Biography, Drama",8.1,83.0,Arthur Penn,20126,5.45
+430,431,The Night of the Hunter,1955,A,92,"Crime, Drama, Film-Noir",8.0,97.0,Charles Laughton,95766,0.65
+431,432,The Nightmare Before Christmas,1993,U,76,"Animation, Family, Fantasy",7.9,82.0,Henry Selick,368855,75.08
+432,433,The Philadelphia Story,1940,,112,"Comedy, Romance",7.9,96.0,George Cukor,72774,
+433,434,The Pianist,2002,13,150,"Biography, Drama, Music",8.5,85.0,Roman Polanski,891058,32.57
+434,435,The Prestige,2006,U,130,"Drama, Mystery, Sci-Fi",8.5,66.0,Christopher Nolan,1413206,53.09
+435,436,The Red Shoes,1948,,135,"Drama, Music, Romance",8.1,,Michael Powell,38248,10.9
+436,437,The Remains of the Day,1993,U,134,"Drama, Romance",7.8,86.0,James Ivory,82152,22.95
+437,438,The Roaring Twenties,1939,,106,"Crime, Drama, Film-Noir",7.9,,Raoul Walsh,15097,
+438,439,The Searchers,1956,U,119,"Adventure, Drama, Western",7.8,94.0,John Ford,94821,
+439,440,The Servant,1963,,116,Drama,7.8,94.0,Joseph Losey,13468,0.04
+440,441,The Shawshank Redemption,1994,A,142,Drama,9.3,82.0,Frank Darabont,2832070,28.34
+441,442,The Shining,1980,A,146,"Drama, Horror",8.4,66.0,Stanley Kubrick,1085862,44.02
+442,443,The Shop Around the Corner,1940,,99,"Comedy, Drama, Romance",8.0,96.0,Ernst Lubitsch,37178,0.2
+443,444,The Silence of the Lambs,1991,A,118,"Crime, Drama, Thriller",8.6,86.0,Jonathan Demme,1515466,130.74
+444,445,The Sting,1973,U,129,"Comedy, Crime, Drama",8.3,83.0,George Roy Hill,275207,159.6
+445,446,The Straight Story,1999,U,112,"Biography, Drama",8.0,86.0,David Lynch,95834,6.2
+446,447,The Terminator,1984,A,107,"Action, Sci-Fi",8.1,84.0,James Cameron,909101,38.4
+447,448,The Thing,1982,A,109,"Horror, Mystery, Sci-Fi",8.2,57.0,John Carpenter,456235,13.78
+448,449,The Third Man,1949,U,104,"Film-Noir, Mystery, Thriller",8.1,97.0,Carol Reed,179268,0.45
+449,450,The Treasure of the Sierra Madre,1948,,126,"Adventure, Drama, Western",8.2,98.0,John Huston,130763,5.01
+450,451,The Truman Show,1998,U,103,"Comedy, Drama",8.2,90.0,Peter Weir,1164478,125.62
+451,452,The Usual Suspects,1995,A,106,"Crime, Drama, Mystery",8.5,76.0,Bryan Singer,1129073,23.34
+452,453,The Wild Bunch,1969,A,145,"Action, Adventure, Drama",7.9,98.0,Sam Peckinpah,89287,12.06
+453,454,The Wizard of Oz,1939,U,102,"Adventure, Family, Fantasy",8.1,92.0,Victor Fleming,421264,2.08
+454,455,There Will Be Blood,2007,A,158,Drama,8.2,93.0,Paul Thomas Anderson,629381,40.22
+455,456,"Three Billboards Outside Ebbing, Missouri",2017,A,115,"Comedy, Crime, Drama",8.1,88.0,Martin McDonagh,543087,54.51
+456,457,To Be or Not to Be,1942,,99,"Comedy, Romance, War",8.1,86.0,Ernst Lubitsch,41736,
+457,458,To Kill a Mockingbird,1962,U,129,"Crime, Drama",8.3,88.0,Robert Mulligan,328685,
+458,459,Todo sobre mi madre,1999,R,101,"Comedy, Drama, Romance",7.8,87.0,Pedro Almodóvar,101621,8.26
+459,460,Tonari no Totoro,1988,U,86,"Animation, Comedy, Family",8.1,86.0,Hayao Miyazaki,368294,1.11
+460,461,Topio stin omihli,1988,,127,Drama,7.9,,Theodoros Angelopoulos,9409,
+461,462,Touch of Evil,1958,PG-13,95,"Crime, Drama, Film-Noir",8.0,99.0,Orson Welles,108638,2.24
+462,463,Toy Story,1995,U,81,"Animation, Adventure, Comedy",8.3,96.0,John Lasseter,1049265,191.8
+463,464,Toy Story 2,1999,U,92,"Animation, Adventure, Comedy",7.9,88.0,John Lasseter,610061,245.85
+464,465,Toy Story 3,2010,U,103,"Animation, Adventure, Comedy",8.3,92.0,Lee Unkrich,878316,415.0
+465,466,Trainspotting,1996,A,93,Drama,8.1,83.0,Danny Boyle,715513,16.5
+466,467,Trois couleurs: Bleu,1993,U,94,"Drama, Music, Mystery",7.9,87.0,Krzysztof Kieslowski,108750,1.32
+467,468,Trois couleurs: Rouge,1994,U,99,"Drama, Mystery, Romance",8.1,100.0,Krzysztof Kieslowski,108510,4.04
+468,469,Trouble in Paradise,1932,,83,"Comedy, Crime, Romance",7.9,,Ernst Lubitsch,15907,1.04
+469,470,Sanjuro,1962,U,96,"Action, Drama, Thriller",8.0,,Akira Kurosawa,40453,
+470,471,Tôkyô monogatari,1953,U,136,Drama,8.1,100.0,Yasujirô Ozu,66859,
+471,472,Ugetsu monogatari,1953,,96,"Drama, Fantasy, War",8.2,,Kenji Mizoguchi,25306,0.01
+472,473,Umberto D.,1952,,89,Drama,8.2,92.0,Vittorio De Sica,27640,0.07
+473,474,Un condamné à mort s'est échappé ou Le vent souffle où il veut,1956,,101,"Drama, Thriller, War",8.2,,Robert Bresson,24424,
+474,475,Un prophète,2009,A,155,"Crime, Drama",7.8,90.0,Jacques Audiard,101390,2.08
+475,476,Una giornata particolare,1977,,106,Drama,8.1,,Ettore Scola,15465,
+476,477,Underground,1995,,170,"Comedy, Drama, Fantasy",8.1,79.0,Emir Kusturica,60558,0.17
+477,478,Unforgiven,1992,A,130,"Drama, Western",8.2,85.0,Clint Eastwood,430120,101.16
+478,479,Up,2009,U,96,"Animation, Adventure, Comedy",8.3,88.0,Pete Docter,1103093,293.0
+479,480,Vertigo,1958,A,128,"Mystery, Romance, Thriller",8.3,100.0,Alfred Hitchcock,420544,3.2
+480,481,Viridiana,1961,,91,Drama,8.1,,Luis Buñuel,25790,
+481,482,Viskningar och rop,1972,A,91,Drama,8.0,,Ingmar Bergman,36383,1.74
+482,483,Vivre sa vie: Film en douze tableaux,1962,,80,Drama,7.8,,Jean-Luc Godard,34432,
+483,484,Vozvrashchenie,2003,,110,Drama,7.9,82.0,Andrey Zvyagintsev,47079,0.5
+484,485,Vredens dag,1943,,97,"Drama, History",8.1,,Carl Theodor Dreyer,10890,
+485,486,WALL·E,2008,U,98,"Animation, Adventure, Family",8.4,95.0,Andrew Stanton,1177392,223.81
+486,487,Werckmeister harmóniák,2000,,145,"Drama, Mystery",8.0,92.0,Béla Tarr,15538,0.03
+487,488,What Ever Happened to Baby Jane?,1962,A,134,"Drama, Horror, Thriller",8.0,75.0,Robert Aldrich,60557,4.05
+488,489,Whiplash,2014,A,106,"Drama, Music",8.5,89.0,Damien Chazelle,953102,13.09
+489,490,White Heat,1949,,114,"Action, Crime, Drama",8.1,89.0,Raoul Walsh,35168,
+490,491,Who's Afraid of Virginia Woolf?,1966,A,131,Drama,8.0,75.0,Mike Nichols,78989,
+491,492,Witness for the Prosecution,1957,U,116,"Crime, Drama, Mystery",8.4,76.0,Billy Wilder,134448,8.18
+492,493,Yi yi,2000,,173,"Drama, Romance",8.1,94.0,Edward Yang,27554,1.14
+493,494,Yôjinbô,1961,U,110,"Action, Drama, Thriller",8.2,93.0,Akira Kurosawa,129246,
+494,495,Z,1969,M/PG,127,"Crime, Drama, Thriller",8.2,86.0,Costa-Gavras,30828,0.08
+495,496,Zelig,1983,,79,Comedy,7.7,,Woody Allen,43664,11.8
+496,497,Zerkalo,1975,,107,"Biography, Drama",8.0,82.0,Andrei Tarkovsky,50989,0.18
+497,498,Zootopia,2016,U,108,"Animation, Adventure, Comedy",8.0,78.0,Byron Howard,533952,341.27
+498,499,À bout de souffle,1960,U,90,"Crime, Drama",7.7,,Jean-Luc Godard,86672,0.34
+499,500,Ôkami kodomo no Ame to Yuki,2012,U,117,"Animation, Drama, Family",8.1,71.0,Mamoru Hosoda,48369,
